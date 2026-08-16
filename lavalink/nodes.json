@@ -1,9 +1,0 @@
-[
-  {
-    "host": "lavalink.railway.internal",
-    "port": 2333,
-    "password": "youshallnotpass",
-    "secure": false,
-    "name": "Main"
-  }
-]
